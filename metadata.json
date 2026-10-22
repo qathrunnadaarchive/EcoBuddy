@@ -1,0 +1,6 @@
+{
+  "name": "EcoBuddy - Hidup Minim Sampah & Sustainability",
+  "description": "Kampanye gaya hidup minim sampah (zero waste), edukasi sustainability dan upcycling barang bekas, serta kurasi produk ramah lingkungan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
